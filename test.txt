@@ -1,0 +1,6 @@
+jodla
+piotrek
+swierk
+drzewo
+pies
+kot
